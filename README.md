@@ -17,7 +17,6 @@ A simple PHP login system with user authentication, profile management, and a ba
 ## Setup Instructions
 
 1. **Clone the repository:**
-```bash
 git clone https://github.com/paulexmaze99/login.git
 cd login
 Setup XAMPP/LAMP/WAMP:
